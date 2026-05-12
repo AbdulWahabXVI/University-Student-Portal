@@ -34,27 +34,45 @@ It is only a Static Template, so it lacks feature.
 4. Bootstrap
 
 ## Project Structure
-
-student-portal/
+```
+university-student-portal/
 │
-├── frontend/
-│   ├── index.html
-│   ├── dashboard.html
-│   ├── css/
-│   └── js/
+├── .github/workflows
+│   └── static.yml
 │
-├── backend/
-│   ├── server.js
-│   ├── routes/
-│   └── controllers/
+├── images/
+│   ├── bg1.jpg
+│   ├── bg2.jpg
+│   ├── bg3.jpg
+│   ├── bg4.jpeg
+│   ├── customer-support.jpg
+│   ├── dp.png
+│   ├── event1.jpeg
+│   ├── event2.jpeg
+│   ├── event3.jpeg
+│   ├── event4.jpeg
+│   ├── flaticon.ico
+│   ├── moon.png
+│   ├── profile.jpg
+│   └── sun.png
 │
-├── database/
-│   └── student_portal.sql
+├── js/
+│   └── script.js
 │
-├── assets/
-│
-└── README.md
-
+├── README.md
+├── assignments.html
+├── attendancereport.html
+├── coursereport.html
+├── events.html
+├── gradereport.html
+├── index.html
+├── marksreport.html
+├── register.html
+├── registeredcourse.html
+├── studentreport.html
+├── style.css
+└── timetable.html
+```
 
 ## Installation
 
