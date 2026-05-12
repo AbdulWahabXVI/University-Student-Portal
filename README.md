@@ -33,7 +33,8 @@ It is only a Static Template, so it lacks feature.
 
 4. Bootstrap
 
-Project Structure
+## Project Structure
+
 student-portal/
 │
 ├── frontend/
@@ -54,65 +55,58 @@ student-portal/
 │
 └── README.md
 
-Installation
+
+## Installation
+
 1. Clone the Repository
+   git clone https://github.com/AbdulWahabXVI/university-student-portal.git
+   cd student-portal
 
-2. git clone https://github.com/yourusername/student-portal.git
-cd student-portal
+## Screenshots
 
-2. Install Dependencies
-
-3. npm install
-
-4. 3. Configure Database
-
-Update your database configuration:
-
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=student_portal
-
-4. Run the Project
-
-5. npm start
-
-6. Server will start on:
-
-7. http://localhost:3000
-
-8. Screenshots
 Login Page
+
 Student Dashboard
+
 Faculty Panel
+
 Admin Dashboard
+
 Attendance System
+
 Future Improvements
+
 Mobile application
+
 AI-based academic recommendations
+
 Real-time chat system
+
 Online examination module
+
 Biometric attendance integration
+
 Cloud deployment
+
 Security Features
+
 Password hashing
+
 Session authentication
+
 Role-based access control
+
 SQL injection prevention
+
 Input validation
+
 Contributing
 
 Contributions are welcome.
-
-Fork the repository
-Create a feature branch
-Commit your changes
-Open a pull request
-License
 
 This project is licensed under the MIT License.
 
 Author
 
-Developed by Your Name
-University Project / Final Year Project
+Developed by Abdul Wahab
+University Project
