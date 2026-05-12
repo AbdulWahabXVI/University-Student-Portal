@@ -1,43 +1,40 @@
-# University Student Portal
+# 🎓 University Student Portal
 
-A simple web-based student portal designed for universities to manage academic activities, communication, and student services in one centralized platform.
-It is only a Static Template, so it lacks feature.
+A simple web-based student portal designed for universities to manage academic activities, communication, and student services in one centralized platform.  
 
-## Features
+⚠️ This is a **static template**, so it does not include backend functionality or dynamic features.
 
-1. Login Page.
+---
 
-2. Personal Profile Page.
+## ✨ Features
 
-3. Grades Monitoring Page.
+- Login Page  
+- Personal Profile Page  
+- Grades Monitoring Page  
+- Attendance Tracking Page  
+- View Registered Courses  
+- Lecture Schedules  
+- Assignment and Quiz Submission Pages  
+- Notifications and Event Announcements  
 
-4. Attendance Tracking Page.
+---
 
-5. View Registered Courses.
+## 🛠️ Tech Stack
 
-6. Lecture Schedules.
-
-7. Assignment and Quiz Submission.
-
-8. Notifications and Announcements of Events.
-
-
-## Tech Portion
 ### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
 
-1. HTML
+---
 
-2. CSS
+## 📂 Project Structure
 
-3. JavaScript
-
-4. Bootstrap
-
-## Project Structure
-```
+```bash
 university-student-portal/
 │
-├── .github/workflows
+├── .github/workflows/
 │   └── static.yml
 │
 ├── images/
@@ -59,7 +56,6 @@ university-student-portal/
 ├── js/
 │   └── script.js
 │
-├── README.md
 ├── assignments.html
 ├── attendancereport.html
 ├── coursereport.html
@@ -74,47 +70,76 @@ university-student-portal/
 └── timetable.html
 ```
 
-## Installation
+---
 
-1. Clone the Repository
-   ```bash
-   git clone https://github.com/AbdulWahabXVI/university-student-portal.git
-   cd student-portal
-   ```
-## Screenshots
+## 🚀 Installation
 
-Login Page
+### 1. Clone the Repository
+```bash
+git clone https://github.com/AbdulWahabXVI/university-student-portal.git
+```
+
+### 2. Open Project Folder
+```bash
+cd university-student-portal
+```
+
+### 3. Run Project
+Just open:
+```text
+index.html
+```
+in your browser.
+
+---
+
+## 📸 Screenshots
+
+- Login Page
+  
 ![Login Page](assets/login.png)
 
-Login Validation
+- Login Validation
+  
 ![Login Validation](assets/login-validated.png)
 
-Student Dashboard
+- Student Dashboard
+  
 ![Student Dashboard](assets/student-dashboard.png)
 
-Grades
+- Grades
+  
 ![Grades](assets/grades.png)
 
-Registered Course
+- Registered Course
+  
 ![Registered Course](assets/registered-courses.png)
 
-Attendance
+- Attendance
+  
 ![Attendance](assets/attendance.png)
 
-Events
+- Events
+  
 ![Events](assets/events.png)
 
-Time Table
+- Time Table
+  
 ![Time Table](assets/time-table.png)
 
-Assignments
+- Assignments
+  
 ![Assignments](assets/assignments.png)
 
+---
 
-This project is licensed under the MIT License.
+## 📜 License
 
-Author
+This project is licensed under the **MIT License**.
 
-Developed by Abdul Wahab
+---
 
+## 👨‍💻 Author
+
+Developed by **Abdul Wahab**  
 University Project
