@@ -59,9 +59,10 @@ student-portal/
 ## Installation
 
 1. Clone the Repository
+   ```bash
    git clone https://github.com/AbdulWahabXVI/university-student-portal.git
    cd student-portal
-
+   ```
 ## Screenshots
 
 Login Page
