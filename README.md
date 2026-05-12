@@ -32,7 +32,7 @@ A simple web-based student portal designed for universities to manage academic a
 ## 📂 Project Structure
 
 ```bash
-university-student-portal/
+University-Student-Portal/
 │
 ├── .github/workflows/
 │   └── static.yml
@@ -76,12 +76,12 @@ university-student-portal/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AbdulWahabXVI/university-student-portal.git
+git clone https://github.com/AbdulWahabXVI/University-Student-Portal.git
 ```
 
 ### 2. Open Project Folder
 ```bash
-cd university-student-portal
+cd University-Student-Portal
 ```
 
 ### 3. Run Project
