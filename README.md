@@ -84,48 +84,34 @@ university-student-portal/
 ## Screenshots
 
 Login Page
+![Login Page](assets/login.png)
+
+Login Validation
+![Login Validation](assets/login-validated.png)
 
 Student Dashboard
+![Student Dashboard](assets/student-dashboard.png)
 
-Faculty Panel
+Grades
+![Grades](assets/grades.png)
 
-Admin Dashboard
+Registered Course
+![Registered Course](assets/registered-courses.png)
 
-Attendance System
+Attendance
+![Attendance](assets/attendance.png)
 
-Future Improvements
+Events
+![Events](assets/events.png)
 
-Mobile application
+Time Table
+![Time Table](assets/time-table.png)
 
-AI-based academic recommendations
+Assignments
+![Assignments](assets/assignments.png)
 
-Real-time chat system
-
-Online examination module
-
-Biometric attendance integration
-
-Cloud deployment
-
-Security Features
-
-Password hashing
-
-Session authentication
-
-Role-based access control
-
-SQL injection prevention
-
-Input validation
-
-Contributing
-
-Contributions are welcome.
 
 This project is licensed under the MIT License.
-
 Author
-
 Developed by Abdul Wahab
 University Project
